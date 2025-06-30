@@ -1,4 +1,4 @@
  build:
-       id: 2.0.0
-       version: 2.2.2
-       name: "Production Git Build Environment"
+       buildId: 2.0.2
+       buildVersion: 2.2.3
+       buildName: "Production Git Environment"
