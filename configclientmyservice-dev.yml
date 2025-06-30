@@ -1,4 +1,4 @@
 build:
-       id: 1.0.1
-       version: 6.6.6
-       name: "Development Git Build Environment"
+       buildId: 1.0.1
+       buildVersion: 6.6.6
+       buildName: "Development Git Build Environment"
