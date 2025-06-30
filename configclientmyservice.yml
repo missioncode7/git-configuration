@@ -1,5 +1,5 @@
      build:
-       id: 1.0.0
-       version: 1.1.1
-       name: "Default Git Build Environment"
+       buildId: 1.0.0
+       buildVersion: 1.1.1
+       buildName: "Default Git Build Environment"
        
